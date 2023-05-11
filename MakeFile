@@ -1,2 +1,0 @@
-all:
-	gcc morseChat.c -o morseChat
